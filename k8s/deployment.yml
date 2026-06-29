@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myntra
-        image: pushkar6920/myntraa:7
+        image: pushkar6920/myntraa:10
         ports:
         - containerPort: 3000   # Use port 3000
 
